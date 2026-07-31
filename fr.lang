@@ -20,7 +20,7 @@ credits=Par :\n- Doum\n- turtlebyturtle\n- sad0\n- VizardAlpha\n- mosselini1\n- 
 // Symboles supplémentaires qui seront chargés dans la police lors de l'utilisation de cette langue
 // Ci-dessous se trouve un exemple de phonèmes, graphèmes, ligatures ou diacritiques liés à la typographie
 extrasymbols=AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzÂÀÄâàäÇçÉÊÈËéêèëÎÏîïÑñÔôÛÙÜûùüŒœ1234567890-—+=@#€%*«»()~{}[]|\/<>.·,;:'"?!&²→
-
+test
 [tile]
 unknowntile=Inconnu
 watertile=Eau
