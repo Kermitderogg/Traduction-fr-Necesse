@@ -1612,7 +1612,7 @@ orbofslimes=Orbe de slime
 empresscommand=Commandement de l'Impératrice
 crystallizedskull=Crâne cristallisé
 dryadbranch=Branche de dryade
-ignitionkey=Clé de contact
+ignitionkey=Clé d'embrasement
 eyeofthevoid=Œil du Néant
 
 // Bannières
@@ -1910,12 +1910,12 @@ thiefsboots=Bottes de voleur
 sharkarmorhelmet=Casque de requin
 sharkarmorchestplate=Plastron de requin
 sharkarmorboots=Bottes de requin
-MISSING_TRANSLATION:makeshiftfaceplating=Makeshift Face Plating
-MISSING_TRANSLATION:makeshifthat=Makeshift Hat
-MISSING_TRANSLATION:makeshifteyepiece=Makeshift Eyepiece
-MISSING_TRANSLATION:makeshiftcrown=Makeshift Crown
-MISSING_TRANSLATION:makeshiftchestplate=Makeshift Chestplate
-MISSING_TRANSLATION:makeshiftboots=Makeshift Boots
+makeshiftfaceplating=Plaque faciale bricolée
+makeshifthat=Chapeau bricolé
+makeshifteyepiece=Oeilleton bricolé
+makeshiftcrown=Couronne bricolée
+makeshiftchestplate=Plastron bricolé
+makeshiftboots=Bottes bricolées
 
 // Armure cosmétique
 shoes=Chaussures
@@ -2270,8 +2270,8 @@ eyeinaportal=Œil dans un portail
 weticicle=Stalactite humide
 grizzlycub=Ourson grizzly
 thrumbohorn=Corne de Thrumbo
-MISSING_TRANSLATION:dragonegg=Dragon Egg
-MISSING_TRANSLATION:frozenberry=Frozen Berry
+dragonegg=Oeuf de dragon
+frozenberry=Baie gelée
 exoticseeds=Graines exotiques
 grizzlylunch=Repas du grizzly
 squeakytoy=Jouet grinçant
@@ -2347,8 +2347,8 @@ anycoolingfuel=Tout combustible de refroidissement
 anytieressence=Toute essence de niveau <tier>
 anywrappingpaper=Tout papier d'emballage
 anycookedfood=Tout aliment cuit
-MISSING_TRANSLATION:anygem=Any Gem
-MISSING_TRANSLATION:anyflower=Any Flower
+anygem=Toute gemme
+anyflower=toute fleur
 
 // Type
 SAME_TRANSLATION:unknowntype=???
@@ -2437,12 +2437,12 @@ soldierhelmetset=Obtenez un bonus de frénésie cumulable lorsque vous tuez un e
 soldiercapset=Les projectiles des armes à distance\nricochent sur les ennemis proches\nlorsqu'ils meurent.
 thiefset1=Vous avez une chance de voler\ndes pièces aux ennemis lorsque\nvous les touchez.
 thiefset2=Appuyez sur [input=setability] pour lancer une\npoignée de pièces sur les ennemis.
-MISSING_TRANSLATION:makeshiftset=Dealing or taking damage may build up stacks of Quick Tinker
-MISSING_TRANSLATION:makeshiftmeleeset=Press [input=setability] to expend a Quick Tinker stack and rocket forward, damaging enemies in your path
-MISSING_TRANSLATION:makeshiftrangedset=Press [input=setability] to expend a Quick Tinker stack and place down a temporary turret that shoots nearby enemies
-MISSING_TRANSLATION:makeshiftmagicset=Press [input=setability] to expend a Quick Tinker stack and place down a temporary arc turret that zaps nearby enemies and other arc turrets
-MISSING_TRANSLATION:makeshiftsummonset1=Press [input=setability] to expend all your Quick Tinker stacks and summon robo-pal for a short time
-MISSING_TRANSLATION:makeshiftsummonset2=The robo-pal grows stronger with every stack of Quick Tinker spent (max 5) and instantly spends new stacks
+makeshiftset=Faire ou prendre des dégâts peut générer des charges de bricolage éclair
+makeshiftmeleeset=Appuyer sur [input=setability] pour dépenser une charge de bricolage éclair \net vous propulser tel une fusée, faisant des dégâts aux ennemis sur votre passage
+makeshiftrangedset=Appuyer sur [input=setability] pour dépenser une charge de bricolage éclair \net placer une tourelle temporaire tirant sur les ennemis proches
+makeshiftmagicset=Appuyer sur [input=setability] pour dépenser une charge de bricolage éclair \net placer une tourelle à arc temporaire qui foudroie les ennemis proches et les autres tourelles à arc
+makeshiftsummonset1=Appuyer sur [input=setability] pour dépenser toutes vos charges de bricolage éclair et invoquer Robot-pote pour une courte période
+makeshiftsummonset2=Le robot-pote devient plus fort à chaque charge de bricolage éclair dépensée (max 5) \net consomme instantanément toute nouvelle charge
 supportersetwarning=Ne peut être équipé que par les propriétaires du DLC Necesse - Supporter Pack
 supporterset=Merci de soutenir Necesse <3
 stealthbaskettip=Restez parfaitement immobile pendant 2 secondes pour devenir invisible !
@@ -2756,15 +2756,15 @@ emeraldwandtip=Tire une rafale de mines magiques
 refractortip=Tire un faisceau de lumière concentrée à longue portée
 rubyshieldstip=Invoque des pierres précieuses bloquant les projectiles sans les transpercer.\nElles se brisent au contact des projectiles et des créatures hostiles.
 crystallizedskulltip=Invoque de puissants dragons de rubis !\nChaque invocation occupe 2 emplacements d'invocation.
-MISSING_TRANSLATION:revswordtip=Revs up attack speed over time\nChops down trees as well
-MISSING_TRANSLATION:pyromancytip=Spews flames in a long line and leaves a burning trail in its path \nEnemies on the trail takes more damage, loses armor and is set on fire for a short time
-MISSING_TRANSLATION:ignitionkeytip1=Summons a junk mech that shoots missiles and it can be mounted\nWhen mounted hold [input=trinketability] to use machine guns on the closest enemy
-MISSING_TRANSLATION:ignitionkeytip2=Uses all your summon slots
-MISSING_TRANSLATION:ignitionkeytip3=Damage is increased with each summon slot used
-MISSING_TRANSLATION:patchworkgrenadiertip=Lobs a grenade that flies over terrain and explodes on impact
-MISSING_TRANSLATION:runeboundscepternewtip1=[input=mouse1] Fires a trail of Bones finishing with one Greater Bone Spike
-MISSING_TRANSLATION:runeboundscepternewtip2=[input=mouse2] Detonates all nearby Greater Bone Spikes
-MISSING_TRANSLATION:runeboundscepternewtip3=You can have a max of <amount> Greater Bone Spikes active
+revswordtip=La vitesse d'attaque augmente au fil du temps \nfonctionne également pour abattre des arbres
+pyromancytip=Crache des flammes sur une longue ligne et laisse une trainée enflamée sur son passage \nles ennemis marchant sur la trainée subissent plus de dégâts, perdent de l'armure et prennent feu pendant une courte période
+ignitionkeytip1=Invoque un mecha d'ordures qui tire des missiles et peut être monté \nquand il est monté maintenez [input=trinketability] pour utiliser ses mitrailleuses sur l'enmmi le plus proche
+ignitionkeytip2=Utilise tous tes emplacements d'invocation
+ignitionkeytip3=Les dégâts sont augmentés pour chaque emplacement d'invocation utilisé
+patchworkgrenadiertip=Lance une grenade qui vole au-dessus du champ de bataille et explose à l'impact
+runeboundscepternewtip1=[input=mouse1] Tire une trainée d'os se terminant par un grand pic d'os
+runeboundscepternewtip2=[input=mouse2] Déclenche tous les grands pics d'os proches
+runeboundscepternewtip3=Vous pouvez avoir un maximum de <amount> grands pics d'os actifs
 brutesbattleaxetip=Chargez l'attaque pour effectuer\nune charge en avant
 captorsshortbowtip1=[input=mouse1] Tire <amount> flèches à courte distance.
 captorsshortbowtip2=[input=mouse2] Lance un filet qui capture les plus\npetits ennemis au touché.
@@ -2791,8 +2791,8 @@ voidclawprimarytip=Utilise le pouvoir du Néant pour vous soigner à chaque fois
 voidclawsecondarytip=Maintenez [input=mouse2] enfoncé pour charger rapidement une attaque qui draine la santé et transperce les ennemis.
 frenchhorntip=Joue une mélodie destructrice derrière vous qui se dirige vers les ennemis
 frenchhornquote="Que la grandiosité de la musique s'abatte sur tes ennemis !"
-MISSING_TRANSLATION:batcagetip=Summons vampiric bats that shoot bolts at enemies and drop healing hearts when they kill something
-MISSING_TRANSLATION:hivesceptertip=Summons a swarm of 4 bees that attack nearby enemies
+batcagetip=Invoque des chauves-souris vampires tirant des éclairs aux ennemis et lachent des coeurs de soin quand elles tuent quelquechose
+hivesceptertip=Invoque un essaim de 4 abeilles qui attaquent les ennemis proche
 
 // Nourriture 3
 SAME_TRANSLATION:nutritiontip=Nutrition : <value>
@@ -2885,7 +2885,7 @@ ladderdowntip=Utilisée pour atteindre les cavernes
 deepladderdowntip=Utilisée pour atteindre les cavernes profondes
 cartographertabletip=Utilisée pour échanger des découvertes de cartes
 placeinanysettlement=Doit être placé(e) dans une colonie
-MISSING_TRANSLATION:homestonetip1=Waystones can be bought from your settlement Mage
+homestonetip1=Les pierres de foyer peuvent être achetées chez le mage de votre camp
 waystonetip1=Sera détruit lors du minage
 waystonetip2=Vendu par le mage de la colonie
 teleportationstonetip=Vous permet de voyager vers vos coéquipiers
